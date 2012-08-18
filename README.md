@@ -37,8 +37,8 @@ the state and any argument.
     // what === 'hello'
   });
 
-  obj.state('hello', 'world');
-  obj.state() => 'hello'
+  obj.state('say', 'hello');
+  obj.state() => 'say'
 ```
 
 ### License
